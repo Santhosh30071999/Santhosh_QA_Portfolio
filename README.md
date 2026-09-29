@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 
-<a href="./resume/Santhosh_AR_QA_Engineer_Resume.pdf">
+<a href="./public/resume/Santhosh Resume.pdf">
   <img src="https://img.shields.io/badge/Download%20Resume-PDF-38BDF8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
 </a>
 
@@ -16,13 +16,6 @@
 </div>
 
 <div align="center">
-
-<a href="./public/resume/Santhosh_AR_QA_Resume.pdf">
-  <img
-    src="https://img.shields.io/badge/📄%20VIEW%20RESUME-38BDF8?style=for-the-badge"
-    alt="View Resume"
-  />
-</a>
 
 </div>
 <br>
