@@ -3,7 +3,17 @@
 <img src="./qa-banner.svg" alt="Santhosh AR - QA Engineer Portfolio" width="100%">
 
 </div>
+<div align="center">
 
+<a href="./resume/Santhosh_AR_QA_Engineer_Resume.pdf">
+  <img src="https://img.shields.io/badge/Download%20Resume-PDF-38BDF8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
+</a>
+
+<a href="https://www.linkedin.com/in/santhosh-a-r">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-818CF8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+</div>
 <br>
 
 ## 👋 About Me
