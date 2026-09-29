@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Download%20Resume-PDF-38BDF8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
 </a>
 
-<a href="https://www.linkedin.com/in/santhosh-a-r">
+<a href="https://www.linkedin.com/in/santhosh-ar-qa">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-818CF8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
