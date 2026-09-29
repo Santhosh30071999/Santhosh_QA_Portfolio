@@ -14,14 +14,17 @@
 </a>
 
 </div>
-<a
-  href="/resume/Santhosh_AR_QA_Resume.pdf"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="resume-button"
->
-  📄 View Resume
+
+<div align="center">
+
+<a href="./public/resume/Santhosh_AR_QA_Resume.pdf">
+  <img
+    src="https://img.shields.io/badge/📄%20VIEW%20RESUME-38BDF8?style=for-the-badge"
+    alt="View Resume"
+  />
 </a>
+
+</div>
 <br>
 
 ## 👋 About Me
