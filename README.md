@@ -14,6 +14,14 @@
 </a>
 
 </div>
+<a
+  href="/resume/Santhosh_AR_QA_Resume.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="resume-button"
+>
+  📄 View Resume
+</a>
 <br>
 
 ## 👋 About Me
